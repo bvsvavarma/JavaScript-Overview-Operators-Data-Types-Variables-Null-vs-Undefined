@@ -8,3 +8,7 @@
 ![image](https://github.com/user-attachments/assets/2a32ebb0-03df-47b8-9990-53a0415e36df)
 
 Blog Link: https://www.cybrosys.com/blog/what-are-the-console-methods-in-javascript
+
+![image](https://github.com/user-attachments/assets/d4b517e3-658d-4946-aa43-38fdf9805f9d)
+
+![image](https://github.com/user-attachments/assets/df306146-5afb-44aa-aaba-37d7d791f82f)
