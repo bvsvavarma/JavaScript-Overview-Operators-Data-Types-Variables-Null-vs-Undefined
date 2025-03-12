@@ -14,3 +14,5 @@ Blog Link: https://www.cybrosys.com/blog/what-are-the-console-methods-in-javascr
 ![image](https://github.com/user-attachments/assets/df306146-5afb-44aa-aaba-37d7d791f82f)
 
 ![image](https://github.com/user-attachments/assets/8f37dc3f-c9ce-48d5-81e4-6055f8fc096f)
+
+![image](https://github.com/user-attachments/assets/732d6864-c4c3-4a9b-81c9-7bbc3fbc4a28)
